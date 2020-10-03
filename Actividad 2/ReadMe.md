@@ -1,4 +1,4 @@
-# Instalación y prueba de SWI-prolog.
+# Arbol genealógico del Rey Enrique 7mo. de Inglaterra.
 
 ## Hecho por Juan Pablo de Jesus Figueroa Jaramillo
 
@@ -10,7 +10,7 @@
 ### Como iniciar ?
 
 1. Clona el repositorio de github
-2. Dirigete a la carpeta Actividad 1 con el comando cd Actividad 1/
+2. Dirigete a la carpeta Actividad 2 con el comando cd Actividad 2/
 3. Una vez dentro de la carpeta en la terminal, corremos el comando:
 
             swipl -s Ejemplo.pl
